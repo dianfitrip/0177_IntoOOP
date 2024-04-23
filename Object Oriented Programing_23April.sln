@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Object Oriented Programing_23April", "Object Oriented Programing_23April\Object Oriented Programing_23April.vcxproj", "{F2DD2B07-1448-47BA-AD49-A37ED099B810}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_part2", "OOP_part2\OOP_part2.vcxproj", "{981121E7-4EC0-4635-91FE-6D540C50B542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F2DD2B07-1448-47BA-AD49-A37ED099B810}.Release|x64.Build.0 = Release|x64
 		{F2DD2B07-1448-47BA-AD49-A37ED099B810}.Release|x86.ActiveCfg = Release|Win32
 		{F2DD2B07-1448-47BA-AD49-A37ED099B810}.Release|x86.Build.0 = Release|Win32
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Debug|x64.ActiveCfg = Debug|x64
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Debug|x64.Build.0 = Debug|x64
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Debug|x86.ActiveCfg = Debug|Win32
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Debug|x86.Build.0 = Debug|Win32
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Release|x64.ActiveCfg = Release|x64
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Release|x64.Build.0 = Release|x64
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Release|x86.ActiveCfg = Release|Win32
+		{981121E7-4EC0-4635-91FE-6D540C50B542}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
