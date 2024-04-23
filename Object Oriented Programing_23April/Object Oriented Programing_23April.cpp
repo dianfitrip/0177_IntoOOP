@@ -37,3 +37,9 @@ public:
 		cout << "SKA: " << sks << endl; 
 	}
 };
+
+int main() {
+	mahasiswa mhs;
+	matakuliah mk;
+
+}
