@@ -42,4 +42,9 @@ int main() {
 	mahasiswa mhs;
 	matakuliah mk;
 
+
+	mhs.nama = "Budi";
+	mhs.umur = 20;
+	mhs.jurusan = "Teknik Informatika";
+	mhs.output();
 }
